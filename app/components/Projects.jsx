@@ -20,9 +20,9 @@ const projectsData = [
     description:
       "A full stack web app for customer insights and data manipulation",
     image: "/admindash.webp",
-    gitUrl: "/",
+    gitUrl: "https://github.com/enlguy/AdminDashboard",
     tag: ["All", "Web"],
-    previewUrl: "/",
+    previewUrl: "https://fullstackadmindashboard-fe.onrender.com",
   },
   {
     id: 3,
