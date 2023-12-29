@@ -58,11 +58,10 @@ const About = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            I am a web developer with a passion for creating interactive and
-            responsive web pages and applications. I have experience working
-            with JavaScript, React, Redux, Node.js, Express, PostgreSQL,
-            Sequelize, HTML, CSS, and Git. I am a quick learner and I am always
-            looking to expand my knowledge and skill set.
+            I am a marketing operations expert, and web developer, with a
+            command of html, css, js, React, Next, and Node, that develops
+            digital solutions for businesses. I drive revenues through
+            optimizations, SEO, and data.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
