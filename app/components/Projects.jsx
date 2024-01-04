@@ -9,7 +9,7 @@ const projectsData = [
     id: 1,
     title: "Gym Website",
     description: "A business website with animations and contact",
-    image: "/evogym.png",
+    image: "/evogym.webp",
     gitUrl: "https://github.com/enlguy/Gym",
     tag: ["All", "Web"],
     previewUrl: "https://roaring-palmier-b52fe6.netlify.app/",
