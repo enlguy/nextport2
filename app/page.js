@@ -5,6 +5,7 @@ import About from "./components/About";
 import Projects from "./components/Projects";
 import EmailSection from "./components/EmailSection";
 import Footer from "./components/Footer";
+import MyApp from "./_app";
 import ReactGA from "react-ga";
 
 const TRACKING_ID = process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS;
