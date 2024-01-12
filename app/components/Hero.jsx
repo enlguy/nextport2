@@ -32,7 +32,7 @@ const Hero = () => {
             I work with SMBs to increase revenues through digital advantage.
           </p>
         </div>
-        <div className="col-span-5 place-self-center mt-4 lg:mt-0">
+        <div className="col-span-5 place-self-center mt-4 lg:mt-0 sm:mb-10">
           <div className="rounded-full relative bg-[#272727] w-[400px] h-[400px]">
             <Image
               src="/coding.webp"
