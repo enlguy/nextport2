@@ -9,12 +9,13 @@ const TAB_DATA = [
     id: "skills",
     content: (
       <ul className="list-disc pl-2">
-        <li>Marketing operations</li>
+        <li>Revenue Operations</li>
+        <li>Data Management and Optimization</li>
+        <li>CRM Optimization</li>
         <li>Email campaigns</li>
         <li>WordPress</li>
         <li>SEO</li>
         <li>Nextjs</li>
-        <li>JavaScript</li>
         <li>React</li>
       </ul>
     ),
@@ -57,13 +58,13 @@ const About = () => {
         <Image src="/me.jpg" width={500} height={500} alt="photome" />
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
-          <p className="text-base lg:text-lg">
-            I am a marketing operations expert, and web developer, with a
-            command of html, css, js, React, Next, and Node, that develops
-            digital solutions for businesses. I drive revenues through
-            optimizations, SEO, and data.
+          <p className="text-base lg:text-lg text text-blue-200">
+            I am a marketing operations expert, and web developer with a
+            command of HTML, CSS, JS, React.js, Next.js, and Node.js.  I build optimized sites, as well as manage CRMs and data for optimal growth.  
+            <br>
+            </br><br></br>I love: data optimization, automations, SEO, top Lighthouse scores, fast sites, CRM segmentation, building lead scoring systems, hiking, music, arts, Europe..
           </p>
-          <div className="flex flex-row justify-start mt-8">
+          <div className="flex flex-row justify-start mt-8 text-bold">
             <TabButton
               selectTab={() => handleTabChange("skills")}
               active={tab === "skills"}

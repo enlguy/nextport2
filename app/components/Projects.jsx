@@ -16,6 +16,16 @@ const projectsData = [
   },
   {
     id: 2,
+    title: "MVP for Interview Preparation",
+    description:
+      "A web app built to help people prepare for job interviews",
+    image: "/interprepimage.webp",
+    gitUrl: "https://github.com/enlguy/interview",
+    tag: ["All", "Web"],
+    previewUrl: "https://interprep.online",
+  },
+  {
+    id: 3,
     title: "MERN Database Project",
     description:
       "A full stack web app for customer insights and data manipulation",
@@ -25,21 +35,11 @@ const projectsData = [
     previewUrl: "https://fullstackadmindashboard-fe.onrender.com",
   },
   {
-    id: 3,
+    id: 4,
     title: "Data Optimization for Global Agency",
     description:
       "Working with a global staffing agency to clean and optimize data, create data policies for their CRM (HubSpot), create automations for efficient data cleansing, segmenting over 10,000 records, and building a lead scoring system",
     image: "/potentiam.jpg",
-    gitUrl: "/",
-    tag: ["All", "Marketing"],
-    previewUrl: "/",
-  },
-  {
-    id: 4,
-    title: "Market Fit for New Product",
-    description:
-      "Working with a global business to determine market fit of a new product through research and sales meetings with potential buyers",
-    image: "/rw.jpg",
     gitUrl: "/",
     tag: ["All", "Marketing"],
     previewUrl: "/",
@@ -52,6 +52,16 @@ const projectsData = [
     gitUrl: "https://github.com/enlguy/dictionary",
     tag: ["All", "Web"],
     previewUrl: "https://ephemeral-taffy-27e4e5.netlify.app/",
+  },
+  {
+    id: 6,
+    title: "Market Fit for New Product",
+    description:
+      "Working with a global business to determine market fit of a new product through research and sales meetings with potential buyers",
+    image: "/rw.jpg",
+    gitUrl: "/",
+    tag: ["All", "Marketing"],
+    previewUrl: "/",
   },
 ];
 
