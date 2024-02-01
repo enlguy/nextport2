@@ -55,14 +55,17 @@ const About = () => {
   return (
     <section className="text-white" id="about">
       <div className="md:grid md:grid-cols-2 gap-8 items-center py-8 px-4 xl:gap-16 sm:py-16 xl:px-16">
-        <Image src="/me.jpg" width={500} height={500} alt="photome" />
+        <Image src="/me.jpg" width={460} height={460} alt="photome" />
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg text text-blue-200">
-            I am a marketing operations expert, and web developer with a
-            command of HTML, CSS, JS, React.js, Next.js, and Node.js.  I build optimized sites, as well as manage CRMs and data for optimal growth.  
-            <br>
-            </br><br></br>I love: data optimization, automations, SEO, top Lighthouse scores, fast sites, CRM segmentation, building lead scoring systems, hiking, music, arts, Europe..
+            I am a marketing operations expert, and web developer with a command
+            of HTML, CSS, JS, React.js, Next.js, and Node.js. I build optimized
+            sites, as well as manage CRMs and data for optimal growth.
+            <br></br>
+            <br></br>I love: data optimization, automations, SEO, top Lighthouse
+            scores, fast sites, CRM segmentation, building lead scoring systems,
+            hiking, music, arts, Europe..
           </p>
           <div className="flex flex-row justify-start mt-8 text-bold">
             <TabButton

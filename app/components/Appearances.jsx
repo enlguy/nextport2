@@ -4,10 +4,10 @@ import Image from "next/image";
 const Appearances = () => {
   return (
     <>
-      <span className="items-center justify-between text-center text-xl text-bold">
+      <span className="items-center justify-between text-center text-2xl italic">
         I&apos;ve been interviewed by:
       </span>
-      <div className="items-center justify-between flex">
+      <div className="items-center justify-between flex mx-4">
         <Image
           src="/amag.jpg"
           alt="Authority Magazine logo"

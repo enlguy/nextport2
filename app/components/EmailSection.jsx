@@ -18,10 +18,10 @@ export default function EmailSection() {
             <h5 className="text-2l font-bold text-white my-2">
               Let&apos;s Connect
             </h5>
-            <p className="text-[#ADB7BE] mb-4 max-w-md">
+            <p className="text-[#c1cbd1] mb-4 max-w-md">
               {" "}
-              I&apos;m currently looking for new opportunities, and my inbox is
-              always open. Whether you have a question or just want to say hi!
+              I&apos;m always happy to chat about how I can help you or your
+              business. Feel free to drop a line any time.
             </p>
             <div className="socials flex flex-row gap-2">
               <Link href="https://github.com/enlguy" target="_blank">
@@ -59,10 +59,10 @@ export default function EmailSection() {
         <h5 className="text-xl font-bold text-white my-2">
           Let&apos;s Connect
         </h5>
-        <p className="text-[#ADB7BE] mb-4 max-w-md">
+        <p className="text-[#c1cbd1] mb-4 max-w-md">
           {" "}
-          I&apos;m currently looking for new opportunities, and my inbox is
-          always open. Whether you have a question or just want to say hi!
+          I&apos;m always happy to chat about how I can help you or your
+          business. Feel free to drop a line any time.
         </p>
         <div className="socials flex flex-row gap-2">
           <Link href="https://github.com/enlguy" target="_blank">
