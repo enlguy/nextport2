@@ -5,7 +5,7 @@ const Appearances = () => {
   return (
     <>
       <span className="items-center justify-between text-center text-xl text-bold">
-        I've been interviewed by:
+        I&apos;ve been interviewed by:
       </span>
       <div className="items-center justify-between flex">
         <Image
