@@ -6,7 +6,7 @@ import GoogleAnalytics from "./components/Analytics";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Web Development and Marketing Operations",
+  title: "Web Development and Revenue Operations",
   description: "Web development services and marketing operations expertise",
 };
 
