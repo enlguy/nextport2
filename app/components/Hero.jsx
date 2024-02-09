@@ -17,11 +17,19 @@ const Hero = () => {
               sequence={[
                 // Same substring at the start will only be typed out once, initially
                 "Jack",
-                1000, // wait 1s before replacing "Mice" with "Hamsters"
+                700, // wait 1s before replacing "Mice" with "Hamsters"
                 "A Web Developer",
-                1000,
+                700,
                 "A Digital Marketer",
-                1000,
+                700,
+                "A Digital Marketer",
+                700,
+                "A World Traveler",
+                700,
+                "A Musician",
+                700,
+                "A Lover",
+                700,
               ]}
               wrapper="span"
               speed={50}
@@ -29,7 +37,8 @@ const Hero = () => {
             />
           </h1>
           <p className="mb-6 text-xl">
-            I work with SMBs to increase revenues through digital advantage.
+            I work with SMBs all over the world to grow revenues through digital
+            advantage.
           </p>
         </div>
         <div className="col-span-5 place-self-center mt-4 lg:mt-0">
