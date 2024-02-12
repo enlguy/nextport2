@@ -7,7 +7,7 @@ const Appearances = () => {
       <span className="items-center justify-between text-center text-2xl italic">
         I&apos;ve been interviewed by:
       </span>
-      <div className="items-center justify-between flex mx-4">
+      <div className="items-center justify-between flex mx-4 flex-col md:flex-row">
         <Image
           src="/amag.jpg"
           alt="Authority Magazine logo"
