@@ -8,7 +8,7 @@ const projectsData = [
   {
     id: 1,
     title: "Gym Website",
-    description: "A business website with animations and contact",
+    description: "A business SPA website with animations and contact form",
     image: "/evogym.webp",
     gitUrl: "https://github.com/enlguy/Gym",
     tag: ["All", "Web"],
@@ -18,7 +18,7 @@ const projectsData = [
     id: 2,
     title: "MVP for Interview Preparation",
     description:
-      "A web app built to help people prepare for job interviews",
+      "A web app built to help people prepare for job interviews based on role and industry, using Next.js",
     image: "/interprepimage.webp",
     gitUrl: "https://github.com/enlguy/interview",
     tag: ["All", "Web"],
@@ -28,7 +28,7 @@ const projectsData = [
     id: 3,
     title: "MERN Database Project",
     description:
-      "A full stack web app for customer insights and data manipulation",
+      "A full stack web app for customer insights and data visualization",
     image: "/admindash.webp",
     gitUrl: "https://github.com/enlguy/AdminDashboard",
     tag: ["All", "Web"],
@@ -38,7 +38,7 @@ const projectsData = [
     id: 4,
     title: "Data Optimization for Global Agency",
     description:
-      "Working with a global staffing agency to clean and optimize data, create data policies for their CRM (HubSpot), create automations for efficient data cleansing, segmenting over 10,000 records, and building a lead scoring system",
+      "Working with a global staffing agency to clean and optimize data, create company-wide data policies for their CRM (HubSpot), create automations for efficient data cleansing, segment over 10,000 customer records for email marketing campaigns, and building & implementing a lead scoring system",
     image: "/potentiam.jpg",
     gitUrl: "/",
     tag: ["All", "Marketing"],
@@ -47,7 +47,8 @@ const projectsData = [
   {
     id: 5,
     title: "Dictionary",
-    description: "Utilizing AI and APIs for a responsive dictionary",
+    description:
+      "Utilizing AI and APIs for a responsive dictionary, including audio pronounciation",
     image: "/dictimg.png",
     gitUrl: "https://github.com/enlguy/dictionary",
     tag: ["All", "Web"],
@@ -57,7 +58,7 @@ const projectsData = [
     id: 6,
     title: "Market Fit for New Product",
     description:
-      "Working with a global business to determine market fit of a new product through research and sales meetings with potential buyers",
+      "Working with a global business to determine market fit for a new product through research and sales meetings with potential buyers",
     image: "/rw.jpg",
     gitUrl: "/",
     tag: ["All", "Marketing"],
