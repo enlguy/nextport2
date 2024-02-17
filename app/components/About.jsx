@@ -63,8 +63,8 @@ const About = () => {
           priority={true}
         />
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
-          <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
-          <p className="text-base lg:text-lg text text-blue-200">
+          <h1 className="text-4xl font-bold text-white mb-4">About Me</h1>
+          <h2 className="text-base lg:text-lg text text-blue-200">
             I am a marketing operations expert, and web developer with a command
             of HTML, CSS, JS, React.js, Next.js, and Node.js. I build optimized
             sites, as well as manage CRMs and data for optimal growth.
@@ -72,7 +72,7 @@ const About = () => {
             <br></br>I love: data optimization, automations, SEO, top Lighthouse
             scores, fast sites, CRM segmentation, building lead scoring systems,
             hiking, music, arts, Europe..
-          </p>
+          </h2>
           <div className="flex flex-row justify-start mt-8 text-bold">
             <TabButton
               selectTab={() => handleTabChange("skills")}
