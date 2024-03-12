@@ -46,13 +46,13 @@ const projectsData = [
   },
   {
     id: 5,
-    title: "Dictionary",
+    title: "Marketing Ops Business Site",
     description:
-      "Utilizing AI and APIs for a responsive dictionary, including audio pronounciation",
-    image: "/dictimg.png",
-    gitUrl: "https://github.com/enlguy/dictionary",
-    tag: ["All", "Web"],
-    previewUrl: "https://ephemeral-taffy-27e4e5.netlify.app/",
+      "Created using Nextjs, Markdown, and SEO optimized with near perfect Lighthouse scores",
+    image: "/hubprospscreen.png",
+    gitUrl: "https://github.com/enlguy/",
+    tag: ["All", "Web", "Marketing"],
+    previewUrl: "https://hubprosper.com",
   },
   {
     id: 6,
