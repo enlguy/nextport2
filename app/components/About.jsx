@@ -26,6 +26,13 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>University of Illinois at Urbana-Champaign</li>
+        <ul className="ml-1">
+          <li>- Organizational Communication</li>
+        </ul>
+        <li>University of Helsinki</li>
+        <ul className="ml-1">
+          <li>- Computer Science</li>
+        </ul>
       </ul>
     ),
   },
