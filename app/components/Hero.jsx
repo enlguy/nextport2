@@ -5,11 +5,11 @@ import { TypeAnimation } from "react-type-animation";
 
 const Hero = () => {
   return (
-    <section className="lg:py-16">
+    <section className="lg:py-16 bg-graf">
       <div className="grid grid-cols-1 sm:grid-cols-12 py-4 px-2 mt-20">
         <div className="col-span-7 place-self-center">
           <h1 className="text-white text-5xl lg:text-6xl lg:leading-normal font-bold">
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to bg-purple-500">
+            <span className="text-transparent bg-clip-text">
               Hello, I&apos;m{" "}
             </span>
             <br></br>
