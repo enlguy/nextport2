@@ -16,13 +16,13 @@ const projectsData = [
   },
   {
     id: 2,
-    title: "MVP for Interview Preparation",
+    title: "Interactive Dictionary",
     description:
-      "A web app built to help people prepare for job interviews based on role and industry, using Next.js",
-    image: "/interprepimage.webp",
-    gitUrl: "https://github.com/enlguy/interview",
+      "An interactive dictionary, with audio pronounciation, using vanilla JS",
+    image: "/dictscreen.png",
+    gitUrl: "https://github.com/enlguy/dictionary",
     tag: ["All", "Web"],
-    previewUrl: "https://interprep.online",
+    previewUrl: "https://ephemeral-taffy-27e4e5.netlify.app/",
   },
   {
     id: 3,
